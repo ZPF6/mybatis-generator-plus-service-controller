@@ -17,7 +17,7 @@ https://gitee.com/fufu669/mybatis-generator-plus-service-controller
 <dependency>
   <groupId>com.gitee.fufu669</groupId>
   <artifactId>mybatis-generator-plus-service-controller</artifactId>
-  <version>6.6.685</version>
+  <version>最新版本</version>
 </dependency>
 ```
 **2. 创建一个maven的springboot程序**
@@ -255,7 +255,7 @@ maven cmd:
 <dependency>
     <groupId>com.gitee.fufu669</groupId>
 	<artifactId>cache-fetch-later</artifactId>
-	<version>详见网页说明https://gitee.com/fufu669/cache-fetch-later</version>
+	<version>最新版本详见网页https://gitee.com/fufu669/cache-fetch-later</version>
 </dependency>
 ```
 **8.缓存框架用法请参照**
